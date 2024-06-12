@@ -1,0 +1,14 @@
+ESCRIBIR TAL CUAL ESTAS INSTRUCCIONES
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/LauLDam/PruebaExMayoEmpresaA2.git
+git branch -M master
+git push -u origin master
+
+
+Y PARA SUBIR EL REPOSITORIO:
+git init
+git add .  (al area de ensayo)
+git status -s (todo en verde, solo muestra lo no mandando al reposit con el commit)
+git commit -m "Examen con Refactorizacion"
